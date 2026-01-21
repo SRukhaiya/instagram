@@ -1,6 +1,6 @@
 
 // import fruit from "./assets/fruit.jpg"
-import PropTypes from "prop-types";
+
 // import "./App.css";
 import colors from "./Course.module.css";
 function Course({name,image,content}){
