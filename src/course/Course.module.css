@@ -1,0 +1,13 @@
+.box{
+ background-color:yellow;
+border:2px solid black;
+padding:10px;
+text-align:center;
+display:inline-block
+ }
+
+ .fruit{
+  height:200px;
+  width:200px;
+}
+
