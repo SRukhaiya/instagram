@@ -8,10 +8,10 @@ function App(){
   
   return (
    <>
-{/*    
+   
     <Student name="pooja" age="25" loggedin={false} />
-    <Student name="sayed" age="12" loggedin={true}  /> */}
-    <Courselist/>
+    <Student name="sayed" age="12" loggedin={true}  />
+    {/* <Courselist/> */}
     
    </>
   )
